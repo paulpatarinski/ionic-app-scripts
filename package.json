@@ -2,10 +2,12 @@
   "name": "@ionic/app-scripts",
   "version": "0.0.49",
   "scripts": {
-    "concat" : "node scripts/concat.js",
-    "uglify" : "cd .. && cd bin && node ionic-app-scripts.js uglify"
+    "concat": "node scripts/concat.js",
+    "uglify": "cd .. && cd bin && node ionic-app-scripts.js uglify"
   },
   "devDependencies": {
+    "commander": "^2.9.0",
+    "q": "^1.4.1",
     "vinyl-fs": "^2.4.4",
     "vinyl-fs-concat": "0.0.1"
   }
