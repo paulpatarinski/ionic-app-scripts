@@ -1,3 +1,15 @@
+<a name="0.0.49"></a>
+## [0.0.49](https://github.com/driftyco/ionic-app-scripts/compare/v0.0.48...v0.0.49) (2017-01-03)
+
+
+### Bug Fixes
+
+* **build:** check to ensure tsconfig contains sourcemaps true. ([e6bcf22](https://github.com/driftyco/ionic-app-scripts/commit/e6bcf22))
+* **config:** resolve any inputs that could be paths to absolute paths ([50876eb](https://github.com/driftyco/ionic-app-scripts/commit/50876eb))
+* **copy:** check for null object and src/dest ([eabd125](https://github.com/driftyco/ionic-app-scripts/commit/eabd125))
+
+
+
 <a name="0.0.48"></a>
 ## [0.0.48](https://github.com/driftyco/ionic-app-scripts/compare/v0.0.47...v0.0.48) (2016-12-19)
 
