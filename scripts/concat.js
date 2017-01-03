@@ -8,7 +8,7 @@ var destDirPath = path.join(__dirname, '..', 'www', 'build');
 var paths = {
     scripts:{
         src : [srcDirPath + "/**/*"],
-        dest : 'app.js'
+        dest : 'main.concat.js'
     }
 };
 
